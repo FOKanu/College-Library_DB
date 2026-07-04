@@ -196,5 +196,5 @@ Full rationale is in Progress Report 2.
 
 ## Contact
 
-**Group 3** — Francis Okorie Iyeke-Kanu, Dhrumil Khandla  
+**Group 3** — Francis Okorie Iyeke-Kanu, Anmolpreet Kaur, Dhrumil Khandla  
 Course: Database Systems (BIT3.1), SS 2026
